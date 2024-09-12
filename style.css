@@ -8,6 +8,9 @@
     width : 20vw;
     font-family: Playfair;
 }
+.sidebar nav {
+    padding : 72 px ;
+}
 .main{
     background-color: red;
     width : 80vw;
