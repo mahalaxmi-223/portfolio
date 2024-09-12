@@ -24,8 +24,9 @@
 .container{
     display: flex;
 }
-.infocontainer{
+.infocon{
  background-color:  black ;
+ margin : auto ;
  height : 45 vh;
  width : 80vw ;
 }
