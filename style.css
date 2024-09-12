@@ -4,9 +4,11 @@
 }
 .sidebar{
     background-color: purple;
+    width : 20vw;
 }
 .main{
     background-color: red;
+    width : 80vw;
 }
 .container{
     display: flex;
