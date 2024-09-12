@@ -11,6 +11,11 @@
 .sidebar nav {
     padding : 86px ;
 }
+.sidebar nav li{
+    list-style : none ;
+    font-size : 40 px ;
+    padding : 33px 0 ;
+}
 .main{
     background-color: red;
     width : 80vw;
