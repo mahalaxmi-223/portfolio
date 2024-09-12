@@ -6,7 +6,7 @@
 .sidebar{
     background-color: purple;
     width : 20vw;
-    font-family: Playfair;
+    font-family: 'Playfair Display' , serif ;
     height : 100vh;
 }
 .sidebar nav {
@@ -14,7 +14,7 @@
 }
 .sidebar nav li{
     list-style : none ;
-    font-size : 38 px ;
+    font-size : 38px ;
     padding : 33px 0 ;
 }
 .main{
@@ -29,4 +29,7 @@
  margin : auto ;
  height : 45 vh;
  width : 80vw ;
+ display: flex; 
+ justify-content: center;
+ align-items: center;
 }
