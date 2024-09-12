@@ -7,9 +7,10 @@
     background-color: purple;
     width : 20vw;
     font-family: Playfair;
+    height : 100vh;
 }
 .sidebar nav {
-    padding : 86px ;
+    padding : 20px ;
 }
 .sidebar nav li{
     list-style : none ;
