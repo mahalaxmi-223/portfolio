@@ -23,3 +23,8 @@
 .container{
     display: flex;
 }
+.infocontainer{
+ background-color:  black ;
+ height : 45 vh;
+ width : 80vw ;
+}
