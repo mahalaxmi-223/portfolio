@@ -14,10 +14,12 @@
     padding : 20px ;
 }
 .sidebar nav li{
-    background-color: black;
     list-style : none ;
     font-size : 38px ;
     padding : 33px 0 ;
+}
+.sidebar nav li a{
+    text-decoration: none;
 }
 .main{
     background-color: rgb(231, 217, 217);
