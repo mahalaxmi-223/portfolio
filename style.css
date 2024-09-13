@@ -32,7 +32,6 @@
     display: flex;
 }
 .infocon{
- /*background-color:  blue ;*/
  margin :  144px auto ;
  height : 500px;
  width : 1000px ;
@@ -66,13 +65,12 @@ font-size: 35px;
     padding: 10px;
     border-radius: 15px;
     color: white;
-    background-color: rgb(243, 239, 224);
-/*
-    background-color: rgb(217,194,184);*/
+    background-color: rgb(229, 224, 210);
+
     font-size: 21px;
 
 }
 .buttons button:hover{
     color: white;
-    background-color: rgb(217, 194, 184,);
+    background-color: rgb(229, 224, 210);
 }
