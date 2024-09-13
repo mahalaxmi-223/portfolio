@@ -60,10 +60,12 @@ font-size: 35px;
     padding: 10px;
     border-radius: 15px;
     color: rgb(47, 45, 45);
-    background-color: rgba(6, 66, 50, 0.688);
+    background-color: rgba(19, 154, 87, 0.688);
     font-size: 21px;
+
 }
 .button button:hover{
     color: rgb(183, 177, 177);
-    background-color: rgba(6, 66, 50, 0.688);
+    background-color: rgba(19, 154, 87, 0.688);
+
 }
