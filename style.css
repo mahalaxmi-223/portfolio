@@ -30,3 +30,7 @@
  height : 45vh;
  width : 80vw ;
 }
+.devInfo{
+    display : flex ;
+    justify-content : center ;
+}
