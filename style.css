@@ -7,7 +7,7 @@
     background-color: purple;
     width : 20vw;
     font-family: 'Playfair Display' , serif ;
-    height : 100vh;
+    height : 180vh;
 }
 .sidebar nav {
     padding : 20px ;
@@ -26,10 +26,7 @@
 }
 .infocon{
  background-color:  black ;
- margin : auto ;
+ margin :  144px auto ;
  height : 45vh;
  width : 80vw ;
- display: flex; 
- justify-content: center;
- align-items: center;
 }
