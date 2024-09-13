@@ -64,13 +64,14 @@ font-size: 35px;
 .buttons button{
     padding: 10px;
     border-radius: 15px;
+    background-color: white;
+    color: rgb(27, 148, 169);
     color: white;
-    background-color: rgb(27, 148, 169);
-
+    background-color: rgb(216, 129, 92);
     font-size: 21px;
 
 }
 .buttons button:hover{
     background-color: white;
-    color: rgb(27, 148, 169);
+    color: rgb(216, 129, 92);
 }
