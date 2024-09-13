@@ -5,7 +5,7 @@
     padding : 0;
 }
 .sidebar{
-    background-color: purple;
+  /*  background-color: purple;*/
     width : 20vw;
     font-family: 'Playfair Display' , serif ;
     height : 180vh;
@@ -19,14 +19,14 @@
     padding : 33px 0 ;
 }
 .main{
-    background-color: red;
+    /*background-color: red;*/
     width : 80vw;
 }
 .container{
     display: flex;
 }
 .infocon{
- background-color:  blue ;
+ /*background-color:  blue ;*/
  margin :  144px auto ;
  height : 500px;
  width : 1000px ;
