@@ -50,3 +50,12 @@ font-family: bold ;
 .about{
 font-size: 35px;
 }
+.moreabout{
+    font-family: "Barlow", sans-serif;
+}
+.buttons{
+    margin-top: 35px;
+}
+.buttons button{
+
+}
