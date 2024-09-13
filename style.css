@@ -28,10 +28,20 @@
  background-color:  blue ;
  margin :  144px auto ;
  height : 45vh;
- width : 80vw ;
+ width : 1000px ;
+ justify-content: space-around;
 }
 .devInfo{
     display : flex ;
     justify-content : center ;
     flex-direction: column;
+}
+.hello{
+
+}
+.name{
+    
+}
+.about{
+
 }
