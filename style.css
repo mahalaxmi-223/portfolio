@@ -64,7 +64,7 @@ font-size: 35px;
     font-size: 21px;
 
 }
-.button button:hover{
+.buttons button:hover{
     color: rgb(183, 177, 177);
     background-color: rgba(19, 154, 87, 0.688);
 
