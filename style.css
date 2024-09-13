@@ -71,6 +71,6 @@ font-size: 35px;
 
 }
 .buttons button:hover{
-    color: white;
-    background-color: rgb(27, 148, 169);
+    background-color: white;
+    color: rgb(27, 148, 169);
 }
