@@ -65,12 +65,12 @@ font-size: 35px;
     padding: 10px;
     border-radius: 15px;
     color: white;
-    background-color: rgb(229, 224, 210);
+    background-color: rgb(27, 148, 169);
 
     font-size: 21px;
 
 }
 .buttons button:hover{
     color: white;
-    background-color: rgb(229, 224, 210);
+    background-color: rgb(27, 148, 169);
 }
