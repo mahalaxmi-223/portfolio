@@ -59,11 +59,11 @@ font-size: 35px;
 .buttons button{
     padding: 10px;
     border-radius: 15px;
-    colour: rgb(47, 45, 45);
-    background-color: rgba(71, 168, 142, 0.688);
+    color: rgb(47, 45, 45);
+    background-color: rgba(6, 66, 50, 0.688);
     font-size: 21px;
 }
 .button button:hover{
-    colour: rgb(183, 177, 177);
-    background-color: rgba(71, 168, 142, 0.688);
+    color: rgb(183, 177, 177);
+    background-color: rgba(6, 66, 50, 0.688);
 }
