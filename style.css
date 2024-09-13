@@ -57,5 +57,9 @@ font-size: 35px;
     margin-top: 35px;
 }
 .buttons button{
-
+    padding: 10px;
+    border-radius: 18px;
+    colour: black;
+    background-color: rgb(4, 102, 76);
+    font-size: 21px;
 }
