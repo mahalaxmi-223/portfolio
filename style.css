@@ -97,10 +97,10 @@ font-size: 35px;
     height: 20px;
     border-radius: 7px;
 }
-submit{
+.submit{
     padding: 30px;
 }
-btn btn-primary{
+.btn btn-primary{
     padding: 3px;
     width: 100px;
     height: 32px;
