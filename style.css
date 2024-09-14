@@ -86,4 +86,6 @@ font-size: 35px;
 }
 .mb-3{
     padding:30px;
+    display: flex ;
+    flex-direction: column;
 }
