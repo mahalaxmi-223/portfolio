@@ -103,7 +103,7 @@ font-size: 35px;
     padding: 30px;
 }
 .btn.btn-primary{
-    background-color: rgb(43,44,90) ;  
+    background-color: rgb(216, 129, 92) ;  
     color:white;  
     padding: 1px;
     width: 100px;
@@ -113,6 +113,6 @@ font-size: 35px;
     font-size: 20px;
 }
 .btn.btn-primary:hover{
-    color: rgb(43,44,90) ;  
+    color: rgb(216, 129, 92) ;  
     background-color:white;   
 }
