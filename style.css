@@ -5,7 +5,8 @@
     padding : 0;
 }
 .sidebar{
-    background-color:rgb(43,44,90);
+    /*background-color:rgb(43,44,90);*/
+    background-color: red;
     width : 20vw;
     font-family: 'Playfair Display' , serif ;
     height : 700px;
@@ -24,8 +25,8 @@
     color : white ;
 }
 .main{
-    background-color: rgb(242, 210, 189);
-   /* background-color: rgb(243, 239, 224);*/
+   /* background-color: rgb(242, 210, 189);*/
+   background-color: yellow;
     width : 80vw;
     height :700px;
 }
@@ -33,6 +34,7 @@
     display: flex;
 }
 .infocon{
+    background-color: pink;
  margin :  144px auto ;
  height : 500px;
  width : 1000px ;
