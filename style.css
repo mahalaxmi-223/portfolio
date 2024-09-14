@@ -88,4 +88,11 @@ font-size: 35px;
     padding:30px;
     display: flex ;
     flex-direction: column;
+    font-family: "Roboto Slab", serif;
+}
+.form-control{
+    padding: 5px;
+    width: 555px;
+    height: 20px;
+    border-radius: 20px;
 }
