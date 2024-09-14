@@ -112,7 +112,7 @@ font-size: 35px;
     font-family: "Roboto Slab", serif;
     font-size: 20px;
 }
-.btn.btn-primary{
+.btn.btn-primary :hover{
     color: rgb(43,44,90) ;  
     background-color:white;   
 }
