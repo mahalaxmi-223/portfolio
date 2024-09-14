@@ -92,6 +92,8 @@ font-size: 35px;
     font-size: 20px;
 }
 .form-control{
+    font-size: 17px;
+    font-family: 'Playfair Display' , serif ;
     padding: 5px;
     width: 555px;
     height: 20px;
