@@ -116,10 +116,18 @@ font-size: 35px;
     color: rgb(216, 129, 92) ;  
     background-color:white;   
 }
-.
-.heading{
+
+.introduction{
     font-family: "Roboto Slab", serif;
+    text-align: center;
+    padding: 30px;
+    font-size: 25px
 }
 .content{
+    font-size: 25px;
+    padding: 55px;
+    display: flex;
+    flex-direction: column;
+    margin: 12px
     
 }
