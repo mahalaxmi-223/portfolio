@@ -126,8 +126,6 @@ font-size: 35px;
 .content{
     font-size: 25px;
     padding: 55px;
-    display: flex;
-    flex-direction: column;
     margin: 12px
     
 }
