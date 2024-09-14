@@ -76,6 +76,6 @@ font-size: 35px;
     background-color: white;
     color: rgb(216, 129, 92);
 }
-.contactform h1{
+.contactform h3,h1{
     text-align: center;
 }
