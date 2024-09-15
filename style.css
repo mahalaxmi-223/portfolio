@@ -5,7 +5,6 @@
     padding : 0;
 }
 .sidebar{
-
     background-color:rgb(43,44,90);
     width : 20vw;
     font-family: 'Playfair Display' , serif ;
@@ -35,10 +34,11 @@
 .infocon{
     display: flex;
     flex-direction: column;
- margin :  144px auto ;
- height : 500px;
- width : 1000px ;
- justify-content: space-around;
+     margin :  144px auto ;
+    height : 500px;
+    width : 1000px ;
+    padding: 0 0 0 10px ;
+    justify-content: space-around;
 }
 .devInfo{
     display : flex ;
