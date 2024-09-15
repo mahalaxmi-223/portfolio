@@ -5,9 +5,7 @@
     padding : 0;
 }
 @media(max-width : 1300px){
-    *{
-        background-color: red;
-    }
+    
 }
 .sidebar{
     background-color:rgb(43,44,90);
@@ -43,7 +41,6 @@
     height : 500px;
     width : 1000px ;
     padding: 0 0 0 10px ;
-    justify-content: space-around;
 }
 .devInfo{
     display : flex ;
