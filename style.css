@@ -4,8 +4,10 @@
     margin : 0;
     padding : 0;
 }
-@media(max-width : 1300px){
-    
+@media(max-width : 883px){
+ .sidebar{
+    transform :translate();
+ }   
 }
 .sidebar{
     background-color:rgb(43,44,90);
