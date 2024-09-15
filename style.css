@@ -4,15 +4,12 @@
     margin : 0;
     padding : 0;
 }
-.wrapper{
- width:100%;
-}
 .sidebar{
-  
+
     background-color:rgb(43,44,90);
-    width : 2000px;
+    width : 20vw;
     font-family: 'Playfair Display' , serif ;
-    height : 1000px;
+    height : 700px;
 }
 .sidebar nav {
     padding : 20px ;
@@ -28,11 +25,11 @@
     color : white ;
 }
 .main{
- /*   background-color:rgb(43,44,90);
-*/
-    background-color: rgb(242, 210, 189);
-    width : 1000px;
-    height :1000px;
+    background-color:rgb(43,44,90);
+/*
+    background-color: rgb(242, 210, 189);*/
+    width : 80vw;
+    height :700px;
 }
 .container{
     display: flex;
@@ -46,11 +43,9 @@
  justify-content: space-around;
 }
 .devInfo{
-    background-color: red;
     display : flex ;
     justify-content : center ;
     flex-direction: column;
-    padding: 0 0 0 20px ;
 }
 .hello{
  font-size: 75px;
