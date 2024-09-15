@@ -10,7 +10,7 @@
 .sidebar{
   
     background-color:rgb(43,44,90);
-    width : 200px;
+    width : 2000px;
     font-family: 'Playfair Display' , serif ;
     height : 1000px;
 }
@@ -31,7 +31,7 @@
  /*   background-color:rgb(43,44,90);
 */
     background-color: rgb(242, 210, 189);
-    width : 800px;
+    width : 1000px;
     height :1000px;
 }
 .container{
