@@ -8,11 +8,11 @@
  width:100%;
 }
 .sidebar{
-
+  
     background-color:rgb(43,44,90);
-    width : 20vw;
+    width : 20px;
     font-family: 'Playfair Display' , serif ;
-    height : 100vh;
+    height : 1000px;
 }
 .sidebar nav {
     padding : 20px ;
@@ -31,8 +31,8 @@
  /*   background-color:rgb(43,44,90);
 */
     background-color: rgb(242, 210, 189);
-    width : 80vw;
-    height :100vh;
+    width : 80px;
+    height :100px;
 }
 .container{
     display: flex;
