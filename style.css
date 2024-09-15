@@ -25,9 +25,9 @@
     color : white ;
 }
 .main{
-    background-color:rgb(43,44,90);
-/*
-    background-color: rgb(242, 210, 189);*/
+ /*   background-color:rgb(43,44,90);
+*/
+    background-color: rgb(242, 210, 189);
     width : 80vw;
     height :700px;
 }
