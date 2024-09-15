@@ -9,9 +9,9 @@
 }
 .sidebar{
     background-color:rgb(43,44,90);
-    width : 20%;
+    width : 400px;
     font-family: 'Playfair Display' , serif ;
-    height : 120%;
+    height : 800px;
 }
 .sidebar nav {
     padding : 20px ;
@@ -28,8 +28,8 @@
 }
 .main{
     background-color: rgb(242, 210, 189);
-    width : 80%;
-    height :100%;
+    width : 1600px;
+    height :700px;
 }
 .container{
     display: flex;
@@ -40,7 +40,7 @@
      margin :  144px auto ;
     height : 500px;
     width : 1000px ;
-    padding: 0 0 0 10px ;
+    padding: 0 0 0 55px ;
 }
 .devInfo{
     display : flex ;
