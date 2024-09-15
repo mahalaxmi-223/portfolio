@@ -4,6 +4,9 @@
     margin : 0;
     padding : 0;
 }
+.wrapper{
+ width:100%;
+}
 .sidebar{
 
     background-color:rgb(43,44,90);
