@@ -46,7 +46,11 @@
                      background-color: rgb(242, 210, 189);
                      width : 1000vw;
                      height :1000vh;
-                   }  
+                   } 
+                   *{
+                    overflow-y: hidden;
+                    overflow-x: hidden;
+                } 
                          }
                                                         
 .sidebar{
