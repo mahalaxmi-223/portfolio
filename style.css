@@ -23,10 +23,21 @@
      }   
      .main{
      background-color: rgb(242, 210, 189);
-     width : 100vw;
-     height :100vh;
+     width : 1000vw;
+     height :110vh;
    }  
          }
+@media(max-width : 960px){
+            .sidebar{
+                transform :translate(-440px,0);
+                position:absolute;
+             }   
+             .main{
+             background-color: rgb(242, 210, 189);
+             width : 1000vw;
+             height :1000vh;
+           }  
+                 }
 .sidebar{
     background-color:rgb(43,44,90);
     width : 20vw;
