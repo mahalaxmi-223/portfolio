@@ -16,6 +16,17 @@
  height :100vh;
 }
 }
+@media(max-width : 1060px){
+    .sidebar{
+        transform :translate(-440px,0);
+        position:absolute;
+     }   
+     .main{
+     background-color: rgb(242, 210, 189);
+     width : 100vw;
+     height :100vh;
+   }  
+         }
 .sidebar{
     background-color:rgb(43,44,90);
     width : 20vw;
