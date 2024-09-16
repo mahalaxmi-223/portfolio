@@ -57,7 +57,7 @@
     text-decoration: none;
     color : white ;
 }
-.main{
+@media (max-width : 4688px){
     background-color: rgb(242, 210, 189);
     width : 80vw;
     height :100vh;
