@@ -10,8 +10,8 @@
     transform :translate(-440px,0);
     position:absolute;
  }   
- .main{
-    width:auto;
+ .wrapper{
+    flex-wrap: wrap;
  }
 }
 .sidebar{
