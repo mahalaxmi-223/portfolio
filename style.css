@@ -6,7 +6,7 @@
 }
 @media(max-width : 883px){
  .sidebar{
-    transform :translate(-333px,0);
+    transform :translate(-440px,0);
     position:absolute;
  }   
 }
@@ -31,7 +31,7 @@
 }
 .main{
     background-color: rgb(242, 210, 189);
-    width : 1600px;
+    width : 20000px;
     height :700px;
 }
 .container{
