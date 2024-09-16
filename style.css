@@ -38,6 +38,14 @@
              height :1000vh;
            }  
                  }
+@media(max-width : 4688px){  
+                     .main{
+                     background-color: rgb(242, 210, 189);
+                     width : 1000vw;
+                     height :1000vh;
+                   }  
+                         }
+                                                        
 .sidebar{
     background-color:rgb(43,44,90);
     width : 20vw;
@@ -57,11 +65,7 @@
     text-decoration: none;
     color : white ;
 }
-@media (max-width : 4688px){
-    background-color: rgb(242, 210, 189);
-    width : 80vw;
-    height :100vh;
-}
+
 .container{
     display: flex;
 }
