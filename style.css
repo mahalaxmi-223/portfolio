@@ -5,7 +5,7 @@
     padding : 0;
     
 }
-@media(max-width : 883px){
+@media(max-width : 1364px){
  .sidebar{
     transform :translate(-440px,0);
     position:absolute;
