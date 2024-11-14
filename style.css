@@ -41,14 +41,18 @@
              height :1000vh;
            }  
                  }
-@media(max-width : 4689px){  
-                     .main{
-                     background-color: rgb(242, 210, 189);
-                     width : 100vw;
-                     height :100vh;
-                   } 
-                         }
-                                                        
+                 @media(max-width: 4689px) {  
+                    .main {
+                        background-color: rgb(242, 210, 189);
+                        width: 100vw;
+                        height: 100vh;
+                    }
+                    * {
+                        overflow-y: hidden;
+                        overflow-x: hidden;
+                    }
+                }
+                                                
 .sidebar{
     background-color:rgb(43,44,90);
     width : 20vw;
