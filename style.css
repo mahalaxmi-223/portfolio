@@ -36,12 +36,12 @@
 
 .container{
     display: flex;
-    flex-wrap: wrap;
+    
 }
 .infocon{
     display: flex;
     flex-direction: column;
-     margin :  144px auto ;
+    margin :  144px auto ;
     height : 500px;
     width : 1000px ;
     padding: 0 0 0 55px ;
