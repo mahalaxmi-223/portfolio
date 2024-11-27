@@ -3,7 +3,20 @@
 *{
     margin : 0;
     padding : 0;
-}                                                
+}
+.main{
+    background-color: rgb(242, 210, 189);
+    width : 100vw;
+    height :100vh;
+   }
+* {
+    overflow-y: hidden;
+    overflow-x: hidden;
+}  
+.sidebar{
+    transform :translate(-440px,0);
+    position:absolute;
+ }                                              
 .sidebar{
     background-color:rgb(43,44,90);
     width : 20vw;
