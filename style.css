@@ -13,15 +13,12 @@
     overflow-y: hidden;
     overflow-x: hidden;
 }  
-.sidebar{
-    transform :translate(-440px,0);
-    position:absolute;
- }                                              
+
 .sidebar{
     background-color:rgb(43,44,90);
     width : 20vw;
     font-family: 'Playfair Display' , serif ;
-    height : 100vh;
+    height : 100vh;                                
 }
 .sidebar nav {
     padding : 20px ;
@@ -39,6 +36,7 @@
 
 .container{
     display: flex;
+    flex-wrap: wrap;
 }
 .infocon{
     display: flex;
